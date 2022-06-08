@@ -1,1 +1,1 @@
-# Home Assistant integration of TeslaPV Pakistan inverter
+# Home Assistant integration of TeslaPV inverter
