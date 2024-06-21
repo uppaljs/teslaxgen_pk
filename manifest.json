@@ -1,11 +1,11 @@
 {
-  "domain": "teslapv_pk",
-  "name": "TeslaPV Pakistan Inverter",
-  "documentation": "https://github.com/basghar/teslapv_pk",
+  "domain": "teslaxgen_pk",
+  "name": "TeslaPV Pakistan XGen Water Geyser",
+  "documentation": "https://github.com/uppaljs/teslaxgen_pk",
   "requirements": ["paho-mqtt==1.6.1", "inflection==0.5.1"],
-  "codeowners": ["@basghar"],
+  "codeowners": ["@basghar", "@uppaljs"],
   "dependencies": [],
   "iot_class": "cloud_polling",
   "version": "0.1.0",
-  "loggers": ["teslapv_pk"]
+  "loggers": ["teslaxgen_pk"]
 }
