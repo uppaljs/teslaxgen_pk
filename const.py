@@ -5,9 +5,9 @@ from homeassistant.const import Platform
 
 DEFAULT_NAME = "TeslaPV PK"
 
-MANUFACTURER = "Tesla PV Pakistan / Voltronic"
+MANUFACTURER = "Tesla PV Pakistan"
 
-DOMAIN = "teslapv_pk"
+DOMAIN = "teslaxgen_pk"
 
 SERVER_HOST = "teslasm.art"
 SERVER_PORT = 1883

@@ -36,7 +36,7 @@ class TeslaPVServer:
         self._inverter_name = inverter_name
         self._host = host
         self._port = port
-        self._topic = "rdms/" + username
+        self._topic = "xgen/" + username
         self._timing_mutex = threading.RLock()
         self._last_request_time = None
         self._last_response_time = None
